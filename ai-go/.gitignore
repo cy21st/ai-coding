@@ -1,0 +1,6 @@
+.idea
+*.exe
+*.exe~
+.VSCodeCounter
+ai-go.exe
+ai-go.exe~
